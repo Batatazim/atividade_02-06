@@ -6,7 +6,7 @@ function subtracao(a, b) {
 function divisao(a, b) {
 }
 
-function multiplicacao(a, b) {
+function multiplicacao(a, b) {d
 }
 
 module.exports = {
